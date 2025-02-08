@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soheilFakhrkhah
-- 👀 I’m interested in DevOps/ExpressJS/
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps 
+- 👀 I’m interested in Product/ExpressJS/
+- 🌱 I’m currently learning Product 
+- 💞️ I’m looking to collaborate on Product/ExpressJs 
 - 📫 How to reach me: fakhrkhahsoheil@gmail.com
 - ⚡ Fun fact: Lazy Nerd
 
